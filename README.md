@@ -1,1 +1,1 @@
-# A-Journey-with-ComfyUI
+# A Journey with ComfyUI
