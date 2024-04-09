@@ -1,7 +1,4 @@
-![image](https://github.com/yudhisteer/A-Journey-with-ComfyUI/assets/59663734/d5a7a2f2-2907-4ff2-88ac-472cdd70c734)
-
-
-
+![image](https://github.com/yudhisteer/A-Journey-with-ComfyUI/assets/59663734/e5849fc0-8ce5-4bd7-8e3e-141bd5c48cb4)
 
 
 ## References
