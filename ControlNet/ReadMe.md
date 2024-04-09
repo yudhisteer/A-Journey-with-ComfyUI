@@ -4,6 +4,7 @@
 ![image](https://github.com/yudhisteer/A-Journey-with-ComfyUI/assets/59663734/5ccfb688-78bc-4c92-9df3-6f5230c70d39)
 
 
+![image](https://github.com/yudhisteer/A-Journey-with-ComfyUI/assets/59663734/26ca4e18-746d-4152-8720-70bd4de0b15d)
 
 
 
