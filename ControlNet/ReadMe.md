@@ -1,6 +1,15 @@
 ![image](https://github.com/yudhisteer/A-Journey-with-ComfyUI/assets/59663734/e5849fc0-8ce5-4bd7-8e3e-141bd5c48cb4)
 
 
+![image](https://github.com/yudhisteer/A-Journey-with-ComfyUI/assets/59663734/5ccfb688-78bc-4c92-9df3-6f5230c70d39)
+
+
+
+
+
+
+
+
 ## References
 
 1. https://www.youtube.com/watch?v=DMxnf4WXMsY
