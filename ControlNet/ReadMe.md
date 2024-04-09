@@ -7,3 +7,4 @@
 2. https://huggingface.co/stabilityai/control-lora/tree/main
 3. https://github.com/Fannovel16/comfyui_controlnet_aux
 4. https://www.youtube.com/watch?v=fyCb64Yx2vc
+5. https://www.youtube.com/watch?v=hTSt0yCY-oE&t
