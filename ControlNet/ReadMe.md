@@ -6,4 +6,4 @@
 1. https://www.youtube.com/watch?v=DMxnf4WXMsY
 2. https://huggingface.co/stabilityai/control-lora/tree/main
 3. https://github.com/Fannovel16/comfyui_controlnet_aux
-4. 
+4. https://www.youtube.com/watch?v=fyCb64Yx2vc
