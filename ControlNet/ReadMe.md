@@ -11,3 +11,6 @@
 6. https://www.youtube.com/watch?v=5VX6NELJgcQ
 7. https://www.youtube.com/watch?v=8Kdd3ln0gmo
 8. https://www.youtube.com/watch?v=iHt-dQER_Po
+9. https://www.youtube.com/watch?v=qEpYOV3oUxE
+10. https://www.youtube.com/watch?v=fjSRNJ1BxJk
+11. https://www.youtube.com/watch?v=rAgNYzDMtfM
